@@ -1,4 +1,4 @@
-Simple game of snake made as finishing project on Python 4 Beginners workshop by DaftCode.
+Simple game of snake made with PyGame as finishing project on Python 4 Beginners workshop by DaftCode.
 
 
 TODO:
